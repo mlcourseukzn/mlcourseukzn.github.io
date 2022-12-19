@@ -12,6 +12,7 @@ title: Machine Learning Courese
 
 ### Instructor
 * Dr. Mohanad Mohammed
+* Dr. Gabriel Kallah-Dagadu
 * Lecturer on Biostatistics
 * Co-Director, Health Data Science Master's Program
 * hemattie@hsph.harvard.edu
