@@ -3,7 +3,7 @@ layout: frontpage
 title: Core Principles of Data Science
 ---
 
-## BST 219: Core Principles of Data Science
+## DS 2003: Machine Learning Courese
 
 ### Lectures
 
