@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Core Principles of Data Science
+title: Machine Learning Courese
 ---
 
 ## DS 2003: Machine Learning Courese
@@ -11,7 +11,7 @@ title: Core Principles of Data Science
 * We will be using R for all programming assignments and projects. 
 
 ### Instructor
-* Dr. Heather Mattie
+* Dr. Mohanad Mohammed
 * Lecturer on Biostatistics
 * Co-Director, Health Data Science Master's Program
 * hemattie@hsph.harvard.edu
