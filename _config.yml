@@ -8,16 +8,16 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title: Core Principles of Data Science
+title: Machine Learning Courses (UKZN)
 author:
-  name: Heather Mattie
-  email: hemattie@hsph.harvard.edu
+  name: Mohanad Mohammed
+  email: mohanadadam32@gmail.com
   github: 
   twitter:
   feedburner: nil
 #baseurl: ""
-#url: "https://coredatascience.github.io"
-production_url: "http://coredatascience.github.io"
+#url: "https://mlcourseukzn.github.io"
+production_url: "http://mlcourseukzn.github.io"
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -50,7 +50,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH: https://coredatascience.github.io
+  BASE_PATH: https://mlcourseukzn.github.io
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -60,7 +60,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH: https://coredatascience.github.io/assets/themes/twitter
+  ASSET_PATH: https://mlcourseukzn.github.io/assets/themes/twitter
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
