@@ -16,6 +16,8 @@ title: Machine Learning Short Course
 
 ### Schedule
 
+Note: all lectures will be held in-person AND online via Zoom links. For online attendant please use the following link:
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
