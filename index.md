@@ -11,12 +11,8 @@ title: Machine Learning Short Course
 * We will be using R for all programming assignments and projects. 
 
 ### Instructor
-* Dr. Gabreil Kallah-Dagadu
-* Postdoc Fellow
-* <a href="mailto:kallahdagadug@ukzn.ac.za">kallahdagadug@ukzn.ac.za</a>.<br>
-* Dr. Mohanad Mohammed
-* Postdoc Fellow
-* <a href="mailto:mohammedm1@ukzn.ac.za">mohammedm1@ukzn.ac.za</a>.<br>
+* Dr. Gabreil Kallah-Dagadu (DSI-Africa Postdoc Fellow): <a href="mailto:kallahdagadug@ukzn.ac.za">kallahdagadug@ukzn.ac.za</a>.<br>
+* Dr. Mohanad Mohammed (DSI-Africa Postdoc Fellow): <a href="mailto:mohammedm1@ukzn.ac.za">mohammedm1@ukzn.ac.za</a>.<br>
 
 ### Schedule
 
