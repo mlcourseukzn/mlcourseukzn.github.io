@@ -102,30 +102,88 @@ Note: all lectures will be held in-person AND online via Zoom links. For online 
 </table>
 
 
-Note: all lectures will be held in-person AND online via Zoom links. For online attendant please use the following link: 
-
-
-
-
-| Time      | Monday 23/01 | Tuesday 24/01  | Wednesday 25/01 | Thursday 26/01 | Friday 27/01 |
-| :---     |    :----   |    :--- | :--- | :--- | :--- |
-| 9:00-10:30 am | Introduction to machine learning  | Naïve Bayes, KNN | Regression and classification trees | Regularization, Ridge Regression, LASSO | Dealing with a multiclass classification problem |
-| 10:30-10:45 am | Break  | Break | Break | Break | Break |
-| 10:45-12:00 pm | Logistic regression  | LDA and QDA | Random forests and boosting | Support vector machines | Multinomial regression |
-| 12:00-1:00 pm | Lunch | Lunch | Lunch | Lunch | Lunch |
-| 1:00-2:15 pm | Performance metrics, ROC, AUROC | Tuning of parameters, avoid over fitting | Feature selection and feature importance | Tuning of machines, comparison of machines | The validation of machines problem |
-| 2:15-2:30 pm | Break | Break | Break | Break | Break |
-| 2:30-3:45 pm | Lab | Lab | Lab | Lab | Lab |
-
 
 #### Week 2:
 
-| Time      | Monday 30/01 | Tuesday 31/01  | Wednesday 01/02 | Thursday 02/02 | Friday 03/02 |
-| :---     |    :----   |    :--- | :--- | :--- | :--- |
-| 9:00-10:30 am | Introduction to Cross Validation; Types of Cross Validation  | Application: Individual Data inspection and Preparation for modelling | Application: kNN, LDA and QDA | Application: Random forests: Regression and classification trees | Report writing based on the cases (Dataset) the participant(s) work on. |
-| 10:30-10:45 am | Break  | Break | Break | Break | Break |
-| 10:45-12:00 pm | Practical Dataset partitioning  | Application: Logistic Regression Model | Application: kNN, LDA and QDA | Interpretation of the random forest results using variable importance. | Report writing based on the cases (Dataset) the participant |
-| 12:00-1:00 pm | Lunch | Lunch | Lunch | Lunch | Lunch |
-| 1:00-2:15 pm | Dealing with imbalanced datasets | Application: Naïve Bayes model | Application: Evaluation of the models’ performance and Interpretations | Application: Ridge Regression, LASSO | Report writing based on the cases (Dataset) the participant |
-| 2:15-2:30 pm | Break | Break | Break | Break | Break |
-| 2:30-3:45 pm | Practical evaluation of model performance through cross validation | Interpretations of the models results and performance evaluation. | Application: Evaluation of the models’ performance and Interpretations | Application: Evaluation of the models’ performance and Interpretations | Course Evaluation and Closing Remarks |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">Time</th>
+    <th class="tg-amwm">Monday 30/01</th>
+    <th class="tg-amwm">Tuesday 31/01</th>
+    <th class="tg-amwm">Wednesday 01/02</th>
+    <th class="tg-amwm">Thursday 02/02</th>
+    <th class="tg-amwm">Friday 03/02</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-amwm">9:00-10:30 am</td>
+    <td class="tg-0lax">Introduction to Cross Validation; Types of Cross Validation</td>
+    <td class="tg-0lax">Application: Individual Data inspection and Preparation for modelling</td>
+    <td class="tg-0lax">Application: kNN, LDA and QDA</td>
+    <td class="tg-0lax">Application: Random forests: Regression and classification trees</td>
+    <td class="tg-0lax">Report writing based on the cases (Dataset) the participant(s) work on</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">10:30-10:45 am</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">10:45-12:00 pm</td>
+    <td class="tg-0lax">Practical Dataset partitioning</td>
+    <td class="tg-0lax">Application: Logistic Regression Model</td>
+    <td class="tg-0lax">Application: kNN, LDA and QDA</td>
+    <td class="tg-0lax">Interpretation of the random forest results using variable importance</td>
+    <td class="tg-0lax">Report writing based on the cases (Dataset) the participant</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">12:00-1:00 pm</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+  </tr>
+  <tr> 
+    <td class="tg-amwm">1:00-2:15 pm</td>
+    <td class="tg-0lax">Dealing with imbalanced datasets</td>
+    <td class="tg-0lax">Application: Naïve Bayes model</td>
+    <td class="tg-0lax">Application: Evaluation of the models’ performance and Interpretations</td>
+    <td class="tg-0lax">Application: Ridge Regression, LASSO</td>
+    <td class="tg-0lax">Report writing based on the cases (Dataset) the participant</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">2:15-2:30 pm</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+  </tr>
+  <tr> 
+    <td class="tg-amwm">2:30-3:45 pm</td>
+    <td class="tg-0lax">Practical evaluation of model performance through cross validation</td>
+    <td class="tg-0lax">Interpretations of the models results and performance evaluation</td>
+    <td class="tg-0lax">Application: Evaluation of the models’ performance and Interpretations</td>
+    <td class="tg-0lax">Application: Evaluation of the models’ performance and Interpretations</td>
+    <td class="tg-0lax">Course Evaluation and Closing Remarks</td>
+  </tr>
+</tbody>
+</table>
+
+
+
