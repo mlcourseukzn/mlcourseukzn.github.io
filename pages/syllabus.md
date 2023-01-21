@@ -4,20 +4,22 @@ title: Syllabus
 ---
 
 #### Course Description
-Unprecedented advances in digital technology during the second half of the 20th and beginning of the 21st centuries is transforming science, including health and biomedical research. Scientific fields that have traditionally relied upon simple data analysis techniques of smaller datasets have been transformed by technologies that continue to expand the possibilities of observing and deciphering massive amounts of data in an unprecedented way. This course includes concepts from Statistics, Computer Science and Software Engineering. We will learn the necessary skills to manage, visualize and analyze data. We will learn concepts such as exploratory data analysis, statistical inference and modeling, machine learning, and visualization. We will also learn the necessary skills to develop data products including R programming, data wrangling, reproducible research, and communicating results.
+This will be a two-week short course taught by several experts both locally and internationally. The aim of the course is to enhance capacity in machine learning methods for health data science to address global health problems in Africa.
 
+In week 1, participants will be introduced to several machine learning methods and techniques in a sequence of lectures and practical exercises involving computer applications using relevant real data sets in the health domain.
+
+In week 2 participants will engage in specific case study applications using data sets that are of interest to them from their place of work or data sets shared by the instructors whichever is applicable. The focus would be on more advanced machine learning methods but still emphasizing the ideas covered in week 1. 
 
 #### Learning Objectives
-This class focuses on methods for learning from data, in order to gain useful predictions and insights. Separating signal from noise presents many computational and inferential challenges, which we approach from a perspective at the interface of computer science and statistics. Through real-world examples of wide interest, we introduce methods for five key facets of an investigation:
+At the end of the two weeks, participants would be able to apply the following machine learning methods and techniques to their health datasets or health domain of their interest: 
 
-1) Exploratory data analysis to generate hypotheses and intuition about the data;
+1.	Understand machine learning notations, terminologies, and performance metrics.
+2.	Use Logistic regression, Naïve Bayes, kNN, QDA and LDA to model health data.
+3.	Differentiate between Regression and classification trees and use random forest techniques to classify data.
+4.	Use SVM, Multinomial logistic regression and Regularization techniques in modelling health data.
+5.	properly compare models using appropriate statistical approaches for fair model comparison.
+6.	Interpret machine learning results and write reports on them.
 
-2) Inference and prediction based on statistical tools such as modeling, regression, and classification;
-
-3) Communication of results through visualization, stories, and interpretable summaries.
-
-#### Final Project 
-Students will work in small groups on data science project. The goal of the project is to go through the complete data science process to answer an assigned prompt. You will be given a dataset and series of questions to answer. You will design your visualizations, run statistical analyses, and communicate results. A full description is available on the course website.
 
 #### Course Website
 [GitHub](http://mlcourseukzn.github.io/)
