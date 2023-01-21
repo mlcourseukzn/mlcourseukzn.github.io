@@ -7,7 +7,7 @@ title: Machine Learning Short Course
 
 ### Lectures
 
-* Lectures will be from Monday, 23 January 2023 – Friday, 3rd February 2023
+* Lectures will be from **Monday, 23 January 2023 – Friday, 3rd February 2023**
 * We will be using R for all programming assignments and projects. 
 
 ### Instructor
