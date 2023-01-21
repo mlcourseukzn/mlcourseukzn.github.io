@@ -19,7 +19,7 @@ title: Machine Learning Short Course
 Note: all lectures will be held in-person AND online via Zoom links. For online attendant please use the following link: [ZOOM LINK](https://tinyurl.com/2yxd7pwk)
 
 
-**** Week 1:
+#### Week 1:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
