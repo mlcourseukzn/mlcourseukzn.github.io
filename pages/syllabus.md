@@ -9,11 +9,9 @@ Unprecedented advances in digital technology during the second half of the 20th 
 
 #### Learning Objectives
 This class focuses on methods for learning from data, in order to gain useful predictions and insights. Separating signal from noise presents many computational and inferential challenges, which we approach from a perspective at the interface of computer science and statistics. Through real-world examples of wide interest, we introduce methods for five key facets of an investigation:
-1) data munging/scraping/sampling/cleaning in order to construct an informative, manageable data set;
-2) software engineering skills for accessing data as well as organizing data analyses and making these analyses sharable and reproducible;
-3) exploratory data analysis to generate hypotheses and intuition about the data;
-4) inference and prediction based on statistical tools such as modeling, regression, and classification;
-5) communication of results through visualization, stories, and interpretable summaries.
+1) Exploratory data analysis to generate hypotheses and intuition about the data;
+2) Inference and prediction based on statistical tools such as modeling, regression, and classification;
+3) Communication of results through visualization, stories, and interpretable summaries.
 
 #### Final Project 
 Students will work in small groups to work on data science project. The goal of the project is to go through the complete data science process to answer an assigned prompt. You will be given a dataset and series of questions to answer. You will design your visualizations, run statistical analyses, and communicate results. A full description is available on the course website.
