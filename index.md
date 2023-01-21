@@ -16,28 +16,24 @@ title: Machine Learning Short Course
 
 ### Schedule
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+Note: all lectures will be held in-person AND online via Zoom links. For online attendant please use the following link: [ZOOM LINK](https://tinyurl.com/2yxd7pwk)
+
+#### Week 1:
+
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax">Time</th>
-    <th class="tg-0lax">Monday 23/01</th>
-    <th class="tg-0lax">Tuesday 24/01</th>
-    <th class="tg-0lax">Wednesday 25/01</th>
-    <th class="tg-0lax">Thursday 26/01</th>
-    <th class="tg-0lax">Friday 27/01</th>
+    <th class="tg-amwm">Time</th>
+    <th class="tg-amwm">Monday 23/01</th>
+    <th class="tg-amwm">Tuesday 24/01</th>
+    <th class="tg-amwm">Wednesday 25/01</th>
+    <th class="tg-amwm">Thursday 26/01</th>
+    <th class="tg-amwm">Friday 27/01</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">9:00-10:30 am</td>
+    <td class="tg-amwm">9:00-10:30 am</td>
     <td class="tg-0lax">Introduction to machine learning</td>
     <td class="tg-0lax">Naïve Bayes, KNN</td>
     <td class="tg-0lax">Regression and classification trees</td>
@@ -45,7 +41,7 @@ title: Machine Learning Short Course
     <td class="tg-0lax">Dealing with a multiclass classification problem</td>
   </tr>
   <tr>
-    <td class="tg-0lax">10:30-10:45 am</td>
+    <td class="tg-amwm">10:30-10:45 am</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -53,7 +49,7 @@ title: Machine Learning Short Course
     <td class="tg-0lax">Break</td>
   </tr>
   <tr>
-    <td class="tg-0lax">10:45-12:00 pm</td>
+    <td class="tg-amwm">10:45-12:00 pm</td>
     <td class="tg-0lax">Logistic regression</td>
     <td class="tg-0lax">LDA and QDA</td>
     <td class="tg-0lax">Random forests and boosting</td>
@@ -61,7 +57,7 @@ title: Machine Learning Short Course
     <td class="tg-0lax">Multinomial regression</td>
   </tr>
   <tr>
-    <td class="tg-0lax">12:00-1:00 pm</td>
+    <td class="tg-amwm">12:00-1:00 pm</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
@@ -69,7 +65,7 @@ title: Machine Learning Short Course
     <td class="tg-0lax">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-0lax">1:00-2:15 pm</td>
+    <td class="tg-amwm">1:00-2:15 pm</td>
     <td class="tg-0lax">Performance metrics, ROC, AUROC</td>
     <td class="tg-0lax">Tuning of parameters, avoid over fitting</td>
     <td class="tg-0lax">Feature selection and feature importance</td>
@@ -77,7 +73,7 @@ title: Machine Learning Short Course
     <td class="tg-0lax">The validation of machines problem</td>
   </tr>
   <tr>
-    <td class="tg-0lax">2:15-2:30 pm</td>
+    <td class="tg-amwm">2:15-2:30 pm</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -85,7 +81,7 @@ title: Machine Learning Short Course
     <td class="tg-0lax">Break</td>
   </tr>
   <tr>
-    <td class="tg-0lax">2:30-3:45 pm</td>
+    <td class="tg-amwm">2:30-3:45 pm</td>
     <td class="tg-0lax">Lab</td>
     <td class="tg-0lax">Lab</td>
     <td class="tg-0lax">Lab</td>
@@ -94,10 +90,6 @@ title: Machine Learning Short Course
   </tr>
 </tbody>
 </table>
-
-Note: all lectures will be held in-person AND online via Zoom links. For online attendant please use the following link: [ZOOM LINK](https://tinyurl.com/2yxd7pwk)
-
-#### Week 1:
 
 | Time      | Monday 23/01 | Tuesday 24/01  | Wednesday 25/01 | Thursday 26/01 | Friday 27/01 |
 | :---     |    :----   |    :--- | :--- | :--- | :--- |
