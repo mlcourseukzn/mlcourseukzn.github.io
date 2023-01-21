@@ -9,6 +9,7 @@ Unprecedented advances in digital technology during the second half of the 20th 
 
 #### Learning Objectives
 This class focuses on methods for learning from data, in order to gain useful predictions and insights. Separating signal from noise presents many computational and inferential challenges, which we approach from a perspective at the interface of computer science and statistics. Through real-world examples of wide interest, we introduce methods for five key facets of an investigation:
+
 1) Exploratory data analysis to generate hypotheses and intuition about the data;
 2) Inference and prediction based on statistical tools such as modeling, regression, and classification;
 3) Communication of results through visualization, stories, and interpretable summaries.
