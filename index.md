@@ -16,7 +16,7 @@ title: Machine Learning Short Course
 * kallahdagadug@ukzn.ac.za
 * Dr. Mohanad Mohammed
 * Postdoc Fellow
-* mohammedm1@ukzn.ac.za
+* <a href="mailto:mohammedm1@ukzn.ac.za">Mohanad</a>.<br>
 
 ### Schedule
 
