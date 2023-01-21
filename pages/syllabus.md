@@ -17,7 +17,7 @@ This class focuses on methods for learning from data, in order to gain useful pr
 3) Communication of results through visualization, stories, and interpretable summaries.
 
 #### Final Project 
-Students will work in small groups to work on data science project. The goal of the project is to go through the complete data science process to answer an assigned prompt. You will be given a dataset and series of questions to answer. You will design your visualizations, run statistical analyses, and communicate results. A full description is available on the course website.
+Students will work in small groups on data science project. The goal of the project is to go through the complete data science process to answer an assigned prompt. You will be given a dataset and series of questions to answer. You will design your visualizations, run statistical analyses, and communicate results. A full description is available on the course website.
 
 #### Course Website
 [GitHub](http://mlcourseukzn.github.io/)
