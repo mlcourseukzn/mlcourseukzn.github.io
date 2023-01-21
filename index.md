@@ -13,10 +13,10 @@ title: Machine Learning Short Course
 ### Instructor
 * Dr. Gabreil Kallah-Dagadu
 * Postdoc Fellow
-* kallahdagadug@ukzn.ac.za
+* <a href="mailto:kallahdagadug@ukzn.ac.za">kallahdagadug@ukzn.ac.za</a>.<br>
 * Dr. Mohanad Mohammed
 * Postdoc Fellow
-* <a href="mailto:mohammedm1@ukzn.ac.za">Mohanad</a>.<br>
+* <a href="mailto:mohammedm1@ukzn.ac.za">mohammedm1@ukzn.ac.za</a>.<br>
 
 ### Schedule
 
