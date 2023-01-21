@@ -18,78 +18,8 @@ title: Machine Learning Short Course
 
 Note: all lectures will be held in-person AND online via Zoom links. For online attendant please use the following link: [ZOOM LINK](https://tinyurl.com/2yxd7pwk)
 
+#### Week 1:
 
-
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">Time</th>
-    <th class="tg-amwm">Monday 23/01</th>
-    <th class="tg-amwm">Tuesday 24/01</th>
-    <th class="tg-amwm">Wednesday 25/01</th>
-    <th class="tg-amwm">Thursday 26/01</th>
-    <th class="tg-amwm">Friday 27/01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-amwm">9:00-10:30 am</td>
-    <td class="tg-0lax">Introduction to machine learning</td>
-    <td class="tg-0lax">Naïve Bayes, KNN</td>
-    <td class="tg-0lax">Regression and classification trees</td>
-    <td class="tg-0lax">Regularization, Ridge Regression, LASSO</td>
-    <td class="tg-0lax">Dealing with a multiclass classification problem</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">10:30-10:45 am</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">10:45-12:00 pm</td>
-    <td class="tg-0lax">Logistic regression</td>
-    <td class="tg-0lax">LDA and QDA</td>
-    <td class="tg-0lax">Random forests and boosting</td>
-    <td class="tg-0lax">Support vector machines</td>
-    <td class="tg-0lax">Multinomial regression</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">12:00-1:00 pm</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">1:00-2:15 pm</td>
-    <td class="tg-0lax">Performance metrics, ROC, AUROC</td>
-    <td class="tg-0lax">Tuning of parameters, avoid over fitting</td>
-    <td class="tg-0lax">Feature selection and feature importance</td>
-    <td class="tg-0lax">Tuning of machines, comparison of machines</td>
-    <td class="tg-0lax">The validation of machines problem</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">2:15-2:30 pm</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">2:30-3:45 pm</td>
-    <td class="tg-0lax">Lab</td>
-    <td class="tg-0lax">Lab</td>
-    <td class="tg-0lax">Lab</td>
-    <td class="tg-0lax">Lab</td>
-    <td class="tg-0lax">Lab</td>
-  </tr>
-</tbody>
-</table>
 
 | Time      | Monday 23/01 | Tuesday 24/01  | Wednesday 25/01 | Thursday 26/01 | Friday 27/01 |
 | :---     |    :----   |    :--- | :--- | :--- | :--- |
