@@ -16,7 +16,7 @@ title: Machine Learning Short Course
 
 ### Schedule
 
-Note: all lectures will be held in-person AND online via Zoom links. For online attendance please use the following link: https://tinyurl.com/2yxd7pwk
+Note: all lectures will be held in-person AND online via Zoom links. For online attendant please use the following link: https://tinyurl.com/2yxd7pwk
 
 #### Week 1:
 
