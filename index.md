@@ -16,7 +16,7 @@ title: Machine Learning Short Course
 
 ### Schedule
 
-Note: all lectures will be held in-person AND online via Zoom links. For online attendant please use the following link: [ZOOM LINK](https://tinyurl.com/2yxd7pwk)
+Note: all lectures will be held in-person AND online via Zoom links. For online attendant please use the following link: 
 
 
 
@@ -34,7 +34,7 @@ Note: all lectures will be held in-person AND online via Zoom links. For online 
 
 #### Week 2:
 
-| Time      | Monday 23/01 | Tuesday 24/01  | Wednesday 25/01 | Thursday 26/01 | Friday 27/01 |
+| Time      | Monday 30/01 | Tuesday 31/01  | Wednesday 01/02 | Thursday 02/02 | Friday 03/02 |
 | :---     |    :----   |    :--- | :--- | :--- | :--- |
 | 9:00-10:30 am | Introduction to Cross Validation; Types of Cross Validation  | Application: Individual Data inspection and Preparation for modelling | Application: kNN, LDA and QDA | Application: Random forests: Regression and classification trees | Report writing based on the cases (Dataset) the participant(s) work on. |
 | 10:30-10:45 am | Break  | Break | Break | Break | Break |
