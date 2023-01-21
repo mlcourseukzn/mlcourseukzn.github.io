@@ -16,6 +16,7 @@ title: Machine Learning Short Course
 
 ### Schedule
 
+
 <table class="tg">
 <thead>
   <tr>
@@ -86,6 +87,7 @@ title: Machine Learning Short Course
   </tr>
 </tbody>
 </table>
+
 
 Note: all lectures will be held in-person AND online via Zoom links. For online attendant please use the following link: 
 
