@@ -8,7 +8,7 @@ title: Machine Learning Short Course
 ### Lectures
 
 * Lectures will be from **Monday, 23 January 2023 – Friday, 3rd February 2023**
-* We will be using R for all programming assignments and projects. 
+* We will be using **R** for all programming assignments and projects. 
 
 ### Instructor
 * Dr. Gabreil Kallah-Dagadu (DSI-Africa Postdoc Fellow): <a href="mailto:kallahdagadug@ukzn.ac.za">kallahdagadug@ukzn.ac.za</a>.<br>
@@ -16,7 +16,7 @@ title: Machine Learning Short Course
 
 ### Schedule
 
-Note: all lectures will be held in-person AND online via Zoom links. For online attendant please use the following link: [ZOOM LINK](https://tinyurl.com/2yxd7pwk)
+Note: all lectures will be held *in-person* AND *online* via Zoom links. For online attendants please use the following link: [ZOOM LINK](https://tinyurl.com/2yxd7pwk)
 
 
 #### Week 1:
