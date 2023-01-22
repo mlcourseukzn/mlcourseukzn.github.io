@@ -63,13 +63,6 @@ title: Machine Learning Short Course
   </tr>
   <tr>
     <td class="tg-0lax">Facilitator</td>
-    <td class="tg-0lax">Dr Sandra Barteit</td>
-    <td class="tg-0lax"><a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a><br></td>
-    <td class="tg-0lax">My enthusiasm for Global Health led me to join the Heidelberg University Institute of Global Health as a full-time researcher in 2015. Currently, amongst many other projects, I am leading a project that implements novel measurements of wearables in vulnerable populations in Kenya and Burkina Faso to conduct cutting-edge climate change and health research, which helpd us gain new insights into the disease burden in poor populations facing exposure to climate change, such as heat or droughts. Furthermore, I lead the Blended Learning in Zambia (BLiZ) project that implements blended learning to strengthen medical education at the largest medical University in Zambia. In my research, I apply a variety of analytics models and cross-cutting analytics modeling concepts and cases.</td>
-    <td class="tg-0lax"><img src="figures/Sandra.png" width="1000" height="1000" alt="Sandra"/></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Facilitator</td>
     <td class="tg-0lax">Prof. Serestina Viriri, Dean in the School of Maths, Statistics and Computer Science</td>
     <td class="tg-0lax"><a href="mailto:Viriris@ukzn.ac.za">Viriris@ukzn.ac.za</a><br></td>
     <td class="tg-0lax">Serestina Viriri is a full professor of Computer Science in the School of Mathematics, Statistics and Computer Science at the University of KwaZulu-Natal in South Africa. He is the former HoD of Computer Science discipline. Prof Viriri has been in academia since 1998. His main research areas include Artificial Intelligence, Computer Vision, Machine Learning, Medical Image Analysis, Pattern Recognition, and other Image Processing related fields, such as biometrics. He has published extensively in several Artificial Intelligence and Computer Vision-related accredited journals and international and national conference proceedings. Prof. Viriri serves as a reviewer for several Machine Learning and Computer Vision-related journals. He has also served on program committees for numerous international and national conferences. He has supervised to completion several Ph.D. and M.Sc. candidates. Prof Viriri is a rated researcher by National Research Foundation (NRF) of South Africa. Prof Viriri holds B.Sc. (Mathematics &amp; Computer Science), M.Sc. (Computer Science), and Ph.D. (Computer Science).</td>
