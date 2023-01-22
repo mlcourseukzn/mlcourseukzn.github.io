@@ -115,7 +115,7 @@ title: Machine Learning Short Course
     <td class="tg-0lax">Dr. Mohanad Mohammed, DSI postdoc</td>
     <td class="tg-0lax"><a href="mailto:mohammedm1@ukzn.ac.za">mohammedm1@ukzn.ac.za</a>.<br></td>
     <td class="tg-0lax">Mohanad Mohammed earned his PhD from the School of Mathematics, Statistics, and Computer Science (SMSCS), specializing in Statistics at the University of KwaZulu-Natal (UKZN) in 2022. During his MSc and PhD studies, he worked as a tutor and an Adhoc lecturer in SMSCS at the same university, which continued from 2019 to 2022. He is currently a post-doc fellow working on a health data science project hosted by UKZN in collaboration with Harvard T. H. Chan, School of Public Health, USA, and Heidelberg University and Germany. His research has focused on developing and applying statistical methods in genomics, genetics, public health, and the environment. He is interested in contributing to a deeper understanding of cancer disease modeling using gene expression data to facilitate decision-making concerning diagnosis, treatment, and care. In addition, Mohammed has authored and co-authored many articles, ten of which have been published in reputable journals and conference papers. He has attended and presented at various international and local workshops and conferences and is an active member of the biostatistics team under the MASAMU program.</td>
-    <td class="tg-0lax"><img src="figures/Mohanad.png" height="200px" alt="Mohanad"/></td>
+    <td class="tg-0lax"><a href="https://mlcourseukzn.github.io/figures/Mohanad_Mohammed.jpg" width="200" height="60" alt="Mohanad" pagespeed_url_hash="2699053971" align = "right"> </a></td>
   </tr>
 </tbody>
 </table>
