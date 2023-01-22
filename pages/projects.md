@@ -3,7 +3,8 @@ layout: page
 title: Final Projects
 ---
 
-Students will work in small groups of 3-4 students on a month-long data science project. The goal of the project is to go through the complete data science process to answer questions you have about an assigned dataset and prompt. Canvas or Slack can be used to find prospective team members. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
+Students will work in small groups of 3-4 students on a month-long data science project. The goal of the project is for the participants to practice and apply the machine learning models and techniques taught during the two weeks on real health data. 
+In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below). This project would serve as prerequest for the Deep Learning Short Course that will be organised in June/July, 2023.
 
 
 ## Project Prompt
