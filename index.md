@@ -3,6 +3,8 @@ layout: frontpage
 title: Machine Learning Short Course
 ---
 
+<img src="https://mlcourseukzn.github.io/figures/HarvardChan_logo_stack_RGB_Small.png" height="200px" alt="DSI-Africa logo">
+
 ## DSI-Africa Machine Learning Short Course: UKZN Hub
 
 ### Lectures
