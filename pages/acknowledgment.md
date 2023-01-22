@@ -1,2 +1,1 @@
-This training programme is supported by the Fogarty International Center of the National Institutes of Health under Award Number U2RTW012140.
-The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health
+This training programme is supported by the Fogarty International Center of the National Institutes of Health under Award Number U2RTW012140. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
