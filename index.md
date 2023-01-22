@@ -184,7 +184,7 @@ title: Machine Learning Short Course
 
 
 
-### Course Instructors
+### Course Facilitators
 
 
 <style type="text/css">
