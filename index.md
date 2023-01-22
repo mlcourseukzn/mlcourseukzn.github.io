@@ -9,7 +9,8 @@ title: Machine Learning Short Course
 
 * Lectures will be from **Monday, 23 January 2023 – Friday, 3rd February 2023**.
 * We will be using **R** for all programming assignments and projects.
-* Note: all lectures will be held *in-person* AND *online* via Zoom links. For online attendants please use the following link: [ZOOM LINK](https://tinyurl.com/2yxd7pwk)
+* Note: all lectures will be held *in-person* AND *online* via Zoom links.
+* For online attendants please use the following link: [ZOOM LINK](https://tinyurl.com/2yxd7pwk).
 
 ### Course Instructors
 
