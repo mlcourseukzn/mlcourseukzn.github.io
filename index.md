@@ -11,8 +11,6 @@ title: Machine Learning Short Course
 * We will be using **R** for all programming assignments and projects. 
 
 ### Instructor
-* Dr. Gabreil Kallah-Dagadu (DSI-Africa Postdoc Fellow): <a href="mailto:kallahdagadug@ukzn.ac.za">kallahdagadug@ukzn.ac.za</a>.<br>
-* Dr. Mohanad Mohammed (DSI-Africa Postdoc Fellow): <a href="mailto:mohammedm1@ukzn.ac.za">mohammedm1@ukzn.ac.za</a>.<br>
 
 
 <style type="text/css">
@@ -40,7 +38,7 @@ title: Machine Learning Short Course
     <td class="tg-0lax">Prof. Henry Mwambi, co-PI UKZN</td>
     <td class="tg-0lax"><a href="mailto:mwambih@ukzn.ac.za">mwambih@ukzn.ac.za</a>.<br></td>
     <td class="tg-0lax">Professor at the University of KwaZulu-Natal. Leads research on applied statistics, biostatistics and infectious disease modelling at the individual and population level.  Prof Mwambi’s main areas of research areas are in applied statistics, biostatistics and infectious disease modelling at the individual and population level.  At the University of KwaZulu-Natal, he has taught theory and applied courses, among them a Biostatistics course covering key areas in biostatistics, namely general epidemiology principles, cohort studies, case-control studies, survival analysis and clinical trials.  He is currently working with and has supervised a number of PhD and Masters students on various topics in biostatistics and epidemiology such as the analysis of non-Gaussian longitudinal and clustered disease outcome data, survival analysis, modelling recurrent events, longitudinal data analysis including missing data, and infectious disease modelling.  Some of the students he has supervised hold senior positions as Biostatisticians and academics in leading medical and bioinformatics research institutes and centres and universities within South Africa, sub-Saharan Africa and abroad.  He has authored and co-authored over 100 journal articles in reputable peer-reviewed international journals.  <br><br>He is keen and passionate to develop and help enhance biostatistics and data science capacity in the Sub-Saharan Africa region and Africa at large.  He is currently a Co-PI of a number of landmark projects among them the Sub-Saharan Africa Consortium for Advanced Biostatistics (SSACAB) Training Programme whose aim is to enhance capacity in Biostatistics through MSc, PhD and Postdoctoral training by involving both academic and research institutions to provide supervision and mentorship of fellows<br></td>
-    <td class="tg-0lax"><img src="figures/mwambi.png" height="200px" alt="mwambi"/></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Course Oversight</td>
@@ -117,7 +115,7 @@ title: Machine Learning Short Course
     <td class="tg-0lax">Dr. Mohanad Mohammed, DSI postdoc</td>
     <td class="tg-0lax"><a href="mailto:mohammedm1@ukzn.ac.za">mohammedm1@ukzn.ac.za</a>.<br></td>
     <td class="tg-0lax">Mohanad Mohammed earned his PhD from the School of Mathematics, Statistics, and Computer Science (SMSCS), specializing in Statistics at the University of KwaZulu-Natal (UKZN) in 2022. During his MSc and PhD studies, he worked as a tutor and an Adhoc lecturer in SMSCS at the same university, which continued from 2019 to 2022. He is currently a post-doc fellow working on a health data science project hosted by UKZN in collaboration with Harvard T. H. Chan, School of Public Health, USA, and Heidelberg University and Germany. His research has focused on developing and applying statistical methods in genomics, genetics, public health, and the environment. He is interested in contributing to a deeper understanding of cancer disease modeling using gene expression data to facilitate decision-making concerning diagnosis, treatment, and care. In addition, Mohammed has authored and co-authored many articles, ten of which have been published in reputable journals and conference papers. He has attended and presented at various international and local workshops and conferences and is an active member of the biostatistics team under the MASAMU program.</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="figures/Mohanad.png" height="200px" alt="Mohanad"/></td>
   </tr>
 </tbody>
 </table>
