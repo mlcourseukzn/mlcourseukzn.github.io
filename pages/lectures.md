@@ -8,4 +8,4 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <li><a href="https://github.com/mlcourseukzn/DSI_Africa_ML_ShortCourse.github.io">Lecture Materials</a></li>
 
-<a href="https://github.com/mlcourseukzn/DSI_Africa_ML_ShortCourse.github.io/PDF Lectures/MachineLearningIntro.pdf" download>Machine Learning Introduction</a>
+<a href="PDFLectures/MachineLearningIntro.pdf" download>Machine Learning Introduction by Prof. Till</a>
