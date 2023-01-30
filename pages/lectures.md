@@ -21,3 +21,9 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://mlcourseukzn.github.io/PDFLectures/DSI WorkshopIntroduction_to_PracticalCrossValidation.pdf" download>DSI Workshop Introduction to Practical Cross Validation by Dr. Mandla</a>
 
 <a href="https://mlcourseukzn.github.io/PDFLectures/Code.zip" download>Codes by Dr. Mandla</a>
+
+<a href="https://mlcourseukzn.github.io/PDFLectures/DSI_Practical_ML_Python_CV.ipynb" download>DSI_Practical_ML_Python_CV.ipynb by Dr. Mandla</a>
+
+<a href="https://mlcourseukzn.github.io/PDFLectures/Introduction_to_Python_Coding.ipynb" download>Introduction_to_Python_Coding.ipynb by Dr. Mandla</a>
+
+<a href="https://mlcourseukzn.github.io/PDFLectures/IrisPlotExample.ipynb" download>IrisPlotExample.ipynb by Dr. Mandla</a>
