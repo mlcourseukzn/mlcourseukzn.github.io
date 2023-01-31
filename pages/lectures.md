@@ -32,4 +32,6 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 ##### Week 2 - Day 2:
 
-https://topepo.github.io/caret/model-training-and-tuning.html
+<a href="https://topepo.github.io/caret/" target="_blank">The caret Package!</a>
+
+
