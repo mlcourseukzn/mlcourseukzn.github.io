@@ -1,0 +1,147 @@
+---
+title: "caret package"
+output: html_document
+date: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, message=FALSE}
+library(mlbench)
+data(Sonar)
+str(Sonar[, 1:10])
+```
+
+```{r, message=FALSE}
+library(caret)
+set.seed(998)
+inTraining <- createDataPartition(Sonar$Class, p = .75, list = FALSE)
+training <- Sonar[ inTraining,]
+testing  <- Sonar[-inTraining,]
+```
+
+
+```{r, message=FALSE}
+fitControl <- trainControl(## 10-fold CV
+                           method = "repeatedcv",
+                           number = 10,
+                           ## repeated ten times
+                           repeats = 10,
+                           summaryFunction = twoClassSummary)
+```
+
+
+```{r, message=FALSE}
+set.seed(825)
+gbmFit1 <- train(Class ~ ., data = training, 
+                 method = "gbm", 
+                 trControl = fitControl,
+                 ## This last option is actually one
+                 ## for gbm() that passes through
+                 verbose = FALSE)
+gbmFit1
+```
+
+
+```{r, message=FALSE}
+gbmGrid <-  expand.grid(interaction.depth = c(1, 5, 9), 
+                        n.trees = (1:30)*50, 
+                        shrinkage = 0.1,
+                        n.minobsinnode = 20)
+                        
+nrow(gbmGrid)
+
+set.seed(825)
+gbmFit2 <- train(Class ~ ., data = training, 
+                 method = "gbm", 
+                 trControl = fitControl, 
+                 verbose = FALSE, 
+                 ## Now specify the exact models 
+                 ## to evaluate:
+                 tuneGrid = gbmGrid,
+                 metric = "roc")
+gbmFit2
+```
+
+```{r, message=FALSE}
+trellis.par.set(caretTheme())
+plot(gbmFit2) 
+```
+
+
+```{r, message=FALSE}
+trellis.par.set(caretTheme())
+plot(gbmFit2, metric = "Kappa")
+```
+
+
+```{r, message=FALSE}
+trellis.par.set(caretTheme())
+plot(gbmFit2, metric = "Kappa", plotType = "level",
+     scales = list(x = list(rot = 90)))
+```
+
+
+```{r, message=FALSE}
+ggplot(gbmFit2)
+```
+
+```{r, message=FALSE}
+
+```
+
+```{r, message=FALSE}
+
+```
+
+```{r, message=FALSE}
+
+```
+
+
+```{r, message=FALSE}
+
+```
+
+```{r, message=FALSE}
+
+```
+
+
+```{r, message=FALSE}
+
+```
+
+
+```{r, message=FALSE}
+
+```
+
+
+```{r, message=FALSE}
+
+```
+
+
+
+```{r, message=FALSE}
+
+```
+
+
+```{r, message=FALSE}
+
+```
+
+
+```{r, message=FALSE}
+
+```
+
+
+
+```{r, message=FALSE}
+
+```
