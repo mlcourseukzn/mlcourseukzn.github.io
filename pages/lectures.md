@@ -41,7 +41,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 ###### Dataset 1: Heart Disease
 This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 
-**Attribute Information:**
+####### Attribute Information:
 
         age
         sex
@@ -58,4 +58,4 @@ This data set dates from 1988 and consists of four databases: Cleveland, Hungary
         thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
         The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 
-
+This is downloaded from <a href="https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?resource=download" target="_blank">kaggle</a> **OR** you can download it from <a href="https://mlcourseukzn.github.io/PDFLectures/HeartDiseaseDataset.csv" download>here</a>.
