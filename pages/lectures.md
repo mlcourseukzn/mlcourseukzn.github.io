@@ -29,3 +29,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://mlcourseukzn.github.io/PDFLectures/IrisPlotExample.ipynb" download>IrisPlotExample.ipynb by Dr. Mandla</a>
 
 <a href="https://mlcourseukzn.github.io/PDFLectures/iris.data" download>iris.data by Dr. Mandla</a>
+
+##### Week 2 - Day 2:
+
+<a href="https://topepo.github.io/caret/model-training-and-tuning.html"></a>
