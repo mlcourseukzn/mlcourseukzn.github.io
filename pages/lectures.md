@@ -32,6 +32,6 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 ##### Week 2 - Day 2:
 
-<a href="https://topepo.github.io/caret/" target="_blank">The caret Package!</a>
+<a href="https://topepo.github.io/caret/" target="_blank">The caret Package</a>
 
-
+<a href="https://mlcourseukzn.github.io/PDFLectures/caret package.Rmd" download>Example of using caret in Rmd file</a>
