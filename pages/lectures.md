@@ -30,7 +30,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://mlcourseukzn.github.io/PDFLectures/iris.data" download>iris.data by Dr. Mandla</a>
 
-##### Week 2 - Day 2:
+##### Week 2 - Day 2 Materials:
 
 <a href="https://topepo.github.io/caret/" target="_blank">The caret Package</a>
 
