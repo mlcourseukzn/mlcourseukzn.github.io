@@ -32,4 +32,4 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 ##### Week 2 - Day 2:
 
-<a href="https://topepo.github.io/caret/model-training-and-tuning.html"></a>
+https://topepo.github.io/caret/model-training-and-tuning.html
