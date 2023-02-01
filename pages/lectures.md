@@ -36,7 +36,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://mlcourseukzn.github.io/PDFLectures/caret package.Rmd" download>Example of using caret in Rmd file</a>
 
-##### Week 2 - Day 3: Application
+##### Week 2 - Day 3: Applications
 
 These datasets downloaded from kaggle <a href="https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?resource=download" target="_blank">Heart Disease Dataset</a> and <a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction" target="_blank">Heart Failure Prediction Dataset</a>.
 
