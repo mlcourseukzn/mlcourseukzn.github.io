@@ -40,6 +40,6 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 These datasets downloaded from kaggle <a href="https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?resource=download" target="_blank">Heart Disease Dataset</a> and <a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction" target="_blank">Heart Failure Prediction Dataset</a>.
 
-**Download the R Markdown file:** <a href="https://mlcourseukzn.github.io/PDFLectures/W2D2_Applications.Rmd" download>W2D2_Applications.Rmd</a>
+**Download the R Markdown file:** <a href="https://mlcourseukzn.github.io/PDFLectures/W2D3_Applications.Rmd" download>W2D3_Applications.Rmd</a>
 
 
