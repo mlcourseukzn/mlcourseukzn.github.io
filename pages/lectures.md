@@ -38,5 +38,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 ##### Week 2 - Day 3: Application
 
+This datasets downloaded from <a href="https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?resource=download" target="_blank">kaggle</a> and <a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction" target="_blank">kaggle</a>.
+
+**Download the R Markdown file from** <a href="https://mlcourseukzn.github.io/PDFLectures/W2D2_Applications.Rmd" download>W2D2_Applications.Rmd</a>
 
 
