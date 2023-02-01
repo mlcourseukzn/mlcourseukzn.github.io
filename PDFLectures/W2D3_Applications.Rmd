@@ -80,7 +80,7 @@ Q4: fit the following models
     c) Naive Bayes
     d) Random forests
     
-Q5: Compare the models different evaluation metrics.
+Q5: Compare the models using different evaluation metrics.
 
 Q6: Plot ROC curve for all models, and calculate the AUC.
 
